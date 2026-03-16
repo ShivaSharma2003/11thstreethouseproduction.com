@@ -112,7 +112,7 @@ const services = [
     title: "Creative Direction",
     description:
       "Art direction, set design, and creative coordination for stunning visuals.",
-    video: "/assets/TVC/video3.mov",
+    video: "/assets/TVC/video3.MP4",
   },
 ];
 
