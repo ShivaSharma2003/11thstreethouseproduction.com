@@ -198,7 +198,7 @@ const services = [
     title: 'Location Scouting & Recce',
     icon: '🔍',
     description: 'Finding the perfect location that fits your script, mood, and visual style—with detailed recce and location planning. Our comprehensive location database ensures we find the ideal backdrop for your production.',
-    image: 'https://res.cloudinary.com/dljd0e6e4/image/upload/v1751964361/beibo99qeahzngzbmlnl.png',
+    image: '/assets/LM/LM2.svg',
     features: [
       'Comprehensive location database',
       'Detailed recce reports',
@@ -212,7 +212,7 @@ const services = [
     title: 'Location Management',
     icon: '🏢',
     description: 'End-to-end supervision of locations, including scheduling, coordination, maintenance, and on-ground handling. We ensure smooth operations at every location throughout your production.',
-    image: 'https://res.cloudinary.com/dljd0e6e4/image/upload/v1751964399/flyadsxgtwcfqetklxbw.png',
+    image: '/assets/LM/LM1.svg',
     features: [
       'Location scheduling',
       'Coordination & management',
@@ -226,7 +226,7 @@ const services = [
     title: 'Permissions & Approvals',
     icon: '✅',
     description: 'Complete assistance with government, private, and local permissions required for a hassle-free shoot. We navigate regulatory requirements with expertise and efficiency.',
-    image: 'https://res.cloudinary.com/dljd0e6e4/image/upload/v1751964412/gochwma9vhfszve5miw7.png',
+    image: '/assets/LM/LM4.svg',
     features: [
       'Government permit applications',
       'Local authority approvals',
@@ -240,7 +240,7 @@ const services = [
     title: 'Casting Management',
     icon: '🎭',
     description: 'Selection and coordination of artists, models, supporting actors, and extras based on project requirements. We have access to a wide network of talented professionals.',
-    image: 'https://res.cloudinary.com/dljd0e6e4/image/upload/v1751964398/mcevrzbunlecaldeklfo.png',
+    image: '/assets/LM/LM5.svg',
     features: [
       'Artist selection',
       'Model coordination',
@@ -254,7 +254,7 @@ const services = [
     title: 'Talent & Crew Excellence',
     icon: '👥',
     description: 'Providing skilled technical teams, actors, background artists, and specialized crew for professional execution. Our curated network ensures the right talent for your project.',
-    image: 'https://res.cloudinary.com/dljd0e6e4/image/upload/v1751964362/wjjgwbiwntjjsbamdlwb.png',
+    image: '/assets/LM/LM7.svg',
     features: [
       'Technical crew assembly',
       'Specialist coordination',
@@ -268,7 +268,7 @@ const services = [
     title: 'Art Direction',
     icon: '🎨',
     description: 'Creating visually stunning sets, props, and environments that bring your vision to life. Our art directors craft immersive worlds that enhance your storytelling.',
-    image: 'https://res.cloudinary.com/dljd0e6e4/image/upload/v1751964424/yncgcqygmw7b30scbs8s.png',
+    image: '/assets/LM/LM6.svg',
     features: [
       'Set design',
       'Props coordination',
@@ -282,7 +282,7 @@ const services = [
     title: 'Wall Art, Set Painting & Textures',
     icon: '🖌️',
     description: 'Custom wall designs, murals, textures, and set painting to elevate the visual appeal of your production. Every detail matters in creating an authentic environment.',
-    image: 'https://res.cloudinary.com/dljd0e6e4/image/upload/v1751964361/beibo99qeahzngzbmlnl.png',
+    image: '/assets/LM/LM8.svg',
     features: [
       'Custom wall designs',
       'Mural creation',
@@ -296,7 +296,7 @@ const services = [
     title: 'Stunt Team Coordination',
     icon: '⚡',
     description: 'Professional stunt artists, action choreography, and safety-backed stunt execution for film and commercial projects. Safety is our priority while delivering thrilling action.',
-    image: 'https://res.cloudinary.com/dljd0e6e4/image/upload/v1751964399/flyadsxgtwcfqetklxbw.png',
+    image: '/assets/LM/LM9.svg',
     features: [
       'Professional stunt artists',
       'Action choreography',
@@ -310,7 +310,7 @@ const services = [
     title: 'Accommodation Arrangements',
     icon: '🛏️',
     description: 'Comfortable and well-planned stay arrangements for cast, crew, and technical teams. We ensure everyone is well-rested and ready for optimal production performance.',
-    image: 'https://res.cloudinary.com/dljd0e6e4/image/upload/v1751964412/gochwma9vhfszve5miw7.png',
+    image: '/assets/LM/LM10.svg',
     features: [
       'Hotel bookings',
       'Accommodation selection',
@@ -324,7 +324,7 @@ const services = [
     title: 'Transportation Coordination',
     icon: '🚌',
     description: 'Organized travel, vehicle arrangements, and on-ground vehicle logistics for smooth movement during production. We manage all transportation needs seamlessly.',
-    image: 'https://res.cloudinary.com/dljd0e6e4/image/upload/v1751964398/mcevrzbunlecaldeklfo.png',
+    image: '/assets/LM/LM11.svg',
     features: [
       'Vehicle arrangement',
       'Travel logistics',
@@ -338,7 +338,7 @@ const services = [
     title: 'Catering Services',
     icon: '🍽️',
     description: 'High-quality meals, refreshments, and on-set food services tailored for long shooting schedules. Good food keeps everyone happy and energized during production.',
-    image: 'https://res.cloudinary.com/dljd0e6e4/image/upload/v1751964362/wjjgwbiwntjjsbamdlwb.png',
+    image: '/assets/LM/LM12.svg',
     features: [
       'Menu planning',
       'Quality meals',
@@ -352,7 +352,7 @@ const services = [
     title: 'Security & Safety Management',
     icon: '🛡️',
     description: 'Professional security teams, on-set safety arrangements, and risk management for safe shooting environments. Your safety and security are paramount to us.',
-    image: 'https://res.cloudinary.com/dljd0e6e4/image/upload/v1751964424/yncgcqygmw7b30scbs8s.png',
+    image: '/assets/LM/LM13.svg',
     features: [
       'Security team provision',
       'On-set safety protocols',

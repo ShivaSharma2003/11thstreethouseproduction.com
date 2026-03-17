@@ -199,7 +199,7 @@ const services = [
     description:
       "A-to-Z production support from planning to execution. Our line producers oversee every aspect including coordination, scheduling, crew management, budgeting, and seamless execution to keep your production on track and on budget.",
     image:
-      "https://res.cloudinary.com/dljd0e6e4/image/upload/v1751964361/beibo99qeahzngzbmlnl.png",
+      '/assets/LP/LP1.svg',
     features: [
       "Production planning & scheduling",
       "Comprehensive coordination",
@@ -215,7 +215,7 @@ const services = [
     description:
       "Expert budget optimization ensuring maximum production value within your financial framework. We manage costs, control spending, handle vendor negotiations, and provide transparent reporting throughout production.",
     image:
-      "https://res.cloudinary.com/dljd0e6e4/image/upload/v1751964399/flyadsxgtwcfqetklxbw.png",
+      '/assets/LP/LP3.svg',
     features: [
       "Budget planning & estimation",
       "Cost control",
@@ -231,7 +231,7 @@ const services = [
     description:
       "Access to experienced production crew, technical experts, and on-ground support teams. We assemble the right talent for your specific production needs, ensuring smooth operations and professional execution throughout the shoot.",
     image:
-      "https://res.cloudinary.com/dljd0e6e4/image/upload/v1751964412/gochwma9vhfszve5miw7.png",
+      '/assets/LP/LP2.svg',
     features: [
       "Crew recruitment",
       "Technical expertise",
@@ -247,7 +247,7 @@ const services = [
     description:
       "Comprehensive access to industry-standard equipment and vehicles. From high-end cameras and lighting to drones and picture cars, we source everything needed for professional production at competitive rates.",
     image:
-      "https://res.cloudinary.com/dljd0e6e4/image/upload/v1751964398/mcevrzbunlecaldeklfo.png",
+      '/assets/LP/LP4.svg',
     features: [
       "Camera equipment rental",
       "Lighting packages",
@@ -263,7 +263,7 @@ const services = [
     description:
       "Complete hospitality management for cast and crew comfort. Professional catering, accommodation arrangements, transportation coordination, and on-ground logistics ensuring seamless production operations.",
     image:
-      "https://res.cloudinary.com/dljd0e6e4/image/upload/v1751964362/wjjgwbiwntjjsbamdlwb.png",
+      '/assets/LP/LP6.svg',
     features: [
       "Catering services",
       "Meal planning",

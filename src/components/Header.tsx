@@ -704,9 +704,9 @@ export const Header: React.FC = () => {
       >
         <Nav>
           <img
-            src={"/assets/logos/4.png"}
+            src={"/assets/logos/logo.svg"}
             alt="11th Street Production House"
-            className="h-40 w-40 object-contain aspect-video mix-blend-lighten hover:cursor-pointer"
+            className="h-40 w-40 object-contain aspect-video hover:cursor-pointer"
             onClick={handleLogoClick}
           />
 
