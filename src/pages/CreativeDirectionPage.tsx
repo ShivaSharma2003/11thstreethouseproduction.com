@@ -302,10 +302,9 @@ export const CreativeDirectionPage: React.FC = () => {
               whileInView={{ opacity: 1, x: 0 }}
               viewport={{ once: true }}
               transition={{ duration: 0.8 }}
-              style={{ backgroundImage: 'url(https://res.cloudinary.com/dljd0e6e4/image/upload/v1751964398/mcevrzbunlecaldeklfo.png)' }}
+              style={{ backgroundImage: 'url(https://res.cloudinary.com/dljd0e6e4/image/upload/v1751964435/qlddfcvu0scepj9zfwl8.png)' }}
             />
           </ContentGrid>
-
           <SectionTitle
             initial={{ opacity: 0, y: 30 }}
             whileInView={{ opacity: 1, y: 0 }}

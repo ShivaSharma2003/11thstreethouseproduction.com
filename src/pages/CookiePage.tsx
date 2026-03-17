@@ -6,10 +6,13 @@ const CookiePageContainer = styled.div`
   min-height: 100vh;
   padding-top: 100px;
   background: #0a0a0a;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 `;
 
 const Container = styled.div`
-  max-width: 100vw;
+  max-width: 70%;
   margin: 0 auto;
   padding: 4rem 2rem;
 
@@ -112,7 +115,7 @@ export const CookiePage: React.FC = () => {
           Cookie Policy
         </PageTitle>
         
-        <LastUpdated>Last updated: January 1, 2024</LastUpdated>
+        <LastUpdated>Last updated: March 1, 2026</LastUpdated>
 
         <Content
           initial={{ opacity: 0, y: 20 }}

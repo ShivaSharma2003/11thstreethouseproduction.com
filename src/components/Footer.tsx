@@ -252,7 +252,6 @@ export const Footer: React.FC = () => {
               <FooterLinks>
                 <li><Link to="/">Home</Link></li>
                 <li><Link to="/about">About</Link></li>
-                <li><Link to="/services">Services</Link></li>
                 <li><Link to="/portfolio">Portfolio</Link></li>
               </FooterLinks>
             </FooterSection>
@@ -273,15 +272,15 @@ export const Footer: React.FC = () => {
               <ContactInfo>
                 <div>
                   <FiMapPin />
-                  <span>11th Street, Jaipur, Rajasthan 302012</span>
+                  <span>Jaipur, Rajasthan 302012</span>
                 </div>
                 <div>
                   <FiPhone />
-                  <span>+91 73401 31307</span>
+                  <a href='tel:+917340131307'>+91 73401 31307</a>
                 </div>
                 <div>
                   <FiMail />
-                  <span>info@11thstreetproductionhouse.com</span>
+                  <a href='mailto:info@11thstreetproductionhouse.com'>info@11thstreetproductionhouse.com</a>
                 </div>
               </ContactInfo>
               
@@ -304,7 +303,7 @@ export const Footer: React.FC = () => {
 
         <FooterBottom>
           <Copyright>
-            © {currentYear} Eleventh Street House Production. All rights reserved.
+            © {currentYear} Eleventh Street House Production Pvt. Ltd. All rights reserved.
           </Copyright>
           <LegalLinks>
             <Link to="/privacy">Privacy Policy</Link>

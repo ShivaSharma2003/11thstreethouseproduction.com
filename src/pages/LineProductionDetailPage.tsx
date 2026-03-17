@@ -15,8 +15,7 @@ const HeroSection = styled.section`
   padding: 4rem 2rem;
   text-align: center;
   background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.8)),
-    url("https://res.cloudinary.com/dljd0e6e4/image/upload/v1751964361/beibo99qeahzngzbmlnl.png");
-  background-size: cover;
+    url("/assets/LP/LP1.svg");
   background-position: center;
   display: flex;
   align-items: center;
@@ -199,7 +198,7 @@ const services = [
     description:
       "A-to-Z production support from planning to execution. Our line producers oversee every aspect including coordination, scheduling, crew management, budgeting, and seamless execution to keep your production on track and on budget.",
     image:
-      '/assets/LP/LP1.svg',
+      '/assets/LP/LP2.svg',
     features: [
       "Production planning & scheduling",
       "Comprehensive coordination",
@@ -231,7 +230,7 @@ const services = [
     description:
       "Access to experienced production crew, technical experts, and on-ground support teams. We assemble the right talent for your specific production needs, ensuring smooth operations and professional execution throughout the shoot.",
     image:
-      '/assets/LP/LP2.svg',
+      '/assets/LP/LP4.svg',
     features: [
       "Crew recruitment",
       "Technical expertise",
@@ -247,7 +246,7 @@ const services = [
     description:
       "Comprehensive access to industry-standard equipment and vehicles. From high-end cameras and lighting to drones and picture cars, we source everything needed for professional production at competitive rates.",
     image:
-      '/assets/LP/LP4.svg',
+      '/assets/LP/LP5.svg',
     features: [
       "Camera equipment rental",
       "Lighting packages",

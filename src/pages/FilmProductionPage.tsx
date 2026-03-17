@@ -295,7 +295,7 @@ export const FilmProductionPage: React.FC = () => {
               whileInView={{ opacity: 1, x: 0 }}
               viewport={{ once: true }}
               transition={{ duration: 0.8 }}
-              style={{ backgroundImage: 'url(/Images/image8.png)' }}
+              style={{ backgroundImage: 'url(/assets/LP/LP1.svg)' }}
             />
           </ContentGrid>
 

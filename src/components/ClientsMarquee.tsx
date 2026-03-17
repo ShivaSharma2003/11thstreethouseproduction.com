@@ -18,7 +18,7 @@ const ClientsMarquee = () => {
 
   return (
     <section className="flex flex-col items-center justify-center">
-      <div className="w-[70%] flex flex-col items-center justify-center gap-8">
+      <div className="flex flex-col items-center justify-center gap-8">
         <h2 className="text-6xl">Our Clients</h2>
         <Marquee direction="left" speed={80} gradient={false}>
           <div className="flex flex-row">
@@ -26,7 +26,7 @@ const ClientsMarquee = () => {
               <img
                 src={`/assets/Clogos/${logo}`}
                 alt={logo}
-                className="w-50 h-50 object-contain aspect-video"
+                className="w-80 h-80 object-contain aspect-video"
               />
             ))}
           </div>

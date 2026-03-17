@@ -881,7 +881,6 @@ export const Header: React.FC = () => {
                       <option value="music-video">Music Video</option>
                       <option value="documentary">Documentary</option>
                       <option value="corporate-video">Corporate Video</option>
-                      <option value="wedding">Wedding</option>
                       <option value="event">Event Coverage</option>
                       <option value="other">Other</option>
                     </Select>

@@ -13,15 +13,15 @@ const AwardsMarquee = () => {
   ];
   return (
     <section className="flex flex-col items-center justify-center">
-      <div className="w-[70%] flex flex-col items-center justify-center gap-8">
+      <div className="flex flex-col items-center justify-center gap-8">
         <h2 className="text-6xl">Awards</h2>
-        <Marquee direction="left" speed={20} gradient={false}>
+        <Marquee direction="left" speed={80} gradient={false}>
           <div className="flex flex-row p-4 gap-4">
             {awards.map((award) => (
               <img
                 src={`/assets/AWARDS/${award}`}
                 alt={award}
-                className="w-50 h-50 object-contain"
+                className="w-80 h-80 object-contain aspect-video"
               />
             ))}
           </div>

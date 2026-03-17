@@ -15,7 +15,7 @@ const HeroSection = styled.section`
   padding: 4rem 2rem;
   text-align: center;
   background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.8)),
-              url('https://res.cloudinary.com/dljd0e6e4/image/upload/v1751964361/beibo99qeahzngzbmlnl.png');
+              url("/assets/LM/LM1.svg");
   background-size: cover;
   background-position: center;
   display: flex;
@@ -212,7 +212,7 @@ const services = [
     title: 'Location Management',
     icon: '🏢',
     description: 'End-to-end supervision of locations, including scheduling, coordination, maintenance, and on-ground handling. We ensure smooth operations at every location throughout your production.',
-    image: '/assets/LM/LM1.svg',
+    image: '/assets/LM/LM3.svg',
     features: [
       'Location scheduling',
       'Coordination & management',
@@ -254,7 +254,7 @@ const services = [
     title: 'Talent & Crew Excellence',
     icon: '👥',
     description: 'Providing skilled technical teams, actors, background artists, and specialized crew for professional execution. Our curated network ensures the right talent for your project.',
-    image: '/assets/LM/LM7.svg',
+    image: '/assets/LM/LM6.svg',
     features: [
       'Technical crew assembly',
       'Specialist coordination',
@@ -268,7 +268,7 @@ const services = [
     title: 'Art Direction',
     icon: '🎨',
     description: 'Creating visually stunning sets, props, and environments that bring your vision to life. Our art directors craft immersive worlds that enhance your storytelling.',
-    image: '/assets/LM/LM6.svg',
+    image: '/assets/LM/LM7.svg',
     features: [
       'Set design',
       'Props coordination',

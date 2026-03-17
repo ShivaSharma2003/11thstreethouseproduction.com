@@ -301,7 +301,7 @@ export const ContentCreationPage: React.FC = () => {
               whileInView={{ opacity: 1, x: 0 }}
               viewport={{ once: true }}
               transition={{ duration: 0.8 }}
-              style={{ backgroundImage: 'url(https://res.cloudinary.com/dljd0e6e4/image/upload/v1751964435/qlddfcvu0scepj9zfwl8.png)' }}
+              style={{ backgroundImage: 'url(https://res.cloudinary.com/dljd0e6e4/image/upload/v1751964398/mcevrzbunlecaldeklfo.png)' }}
             />
           </ContentGrid>
 
