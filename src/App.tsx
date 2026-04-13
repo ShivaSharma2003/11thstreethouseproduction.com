@@ -19,6 +19,7 @@ import { CookiePage } from "./pages/CookiePage";
 import { PortfolioPage } from "./pages/PortfolioPage";
 import { LocationManagementDetailPage } from "./pages/LocationManagementDetailPage";
 import { LineProductionDetailPage } from "./pages/LineProductionDetailPage";
+import { LiveEventAndArtistManagementPage } from "./pages/LiveEventsAndArtistManagementPage";
 import ScrollToTop from "./components/ScrollToTop";
 
 function App() {
@@ -60,6 +61,10 @@ function App() {
                 element={<PostProductionPage />}
               />
               <Route path="/services/consulting" element={<ConsultingPage />} />
+              <Route
+                path="/services/live-events"
+                element={<LiveEventAndArtistManagementPage />}
+              />
               <Route path="/privacy" element={<PrivacyPage />} />
               <Route path="/terms" element={<TermsPage />} />
               <Route path="/cookies" element={<CookiePage />} />
