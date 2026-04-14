@@ -280,18 +280,24 @@ const teamMembers = [
     name: "Subhash Manatwal",
     role: "Founder • Producer & Financier",
     bio: "A producer, financer, and leading real estate consultant, Subhash Manatwal leads Eleventh Street Production House with a strong focus on strategic growth, financial planning, and high-quality content production.",
-    image: "/api/placeholder/200/200",
+    image: "/assets/person/subhash.PNG",
   },
   {
     name: "Akshat Dev Manatwal",
     role: "Co-Founder • Director • Creative Producer",
     bio: "A creative producer and visionary storyteller, Akshat Dev Manatwal leads content development and creative execution at Eleventh Street Production House, ensuring impactful and engaging visual storytelling across all projects.",
-    image: "/api/placeholder/200/200",
+    image: "/assets/person/akshat.PNG",
   },
   {
     name: "Yatik Jangid",
     role: "Senior Line Producer & Location Manager",
     bio: "An experienced production professional specializing in logistics, budgeting, and location management, ensuring smooth, efficient, and well-coordinated shoots across all projects.",
+    image: "/api/placeholder/200/200",
+  },
+  {
+    name: "Jagrit Agarwal",
+    role: "Show Curator • Founder, Tribaan Entertainment",
+    bio: "Dynamic Show Curator and the Founder of Tribaan Entertainment, bringing strong expertise in live entertainment, concert curation, and audience-driven experiences.",
     image: "/api/placeholder/200/200",
   },
 ];
@@ -435,9 +441,9 @@ export const AboutPage: React.FC = () => {
                 viewport={{ once: true }}
                 transition={{ duration: 0.6, delay: index * 0.1 }}
               >
-                <div
-                  className="image"
-                  style={{ backgroundImage: `url(${member.image})` }}
+                <img
+                  className="image object-fill"
+                  src={member.image}
                 />
                 <h3>{member.name}</h3>
                 <div className="role">{member.role}</div>

@@ -629,11 +629,11 @@ export const Header: React.FC = () => {
   ];
 
   const serviceItems = [
-    { path: "/services/live-events", label: "Live Events & Artist Management" },
     { path: "/services/film-production", label: "Film Production" },
     { path: "/services/post-production", label: "Post Production" },
     { path: "/services/content-creation", label: "Content Creation" },
     { path: "/services/creative-direction", label: "Creative Direction" },
+    { path: "/services/live-events", label: "Live Events & Artist Management" },
     { path: "/services/consulting", label: "Consulting" },
     
   ];

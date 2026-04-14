@@ -200,7 +200,7 @@ const services = [
     icon: "🔍",
     description:
       "End-to-end planning and execution of concerts featuring top artists, designed to deliver high-energy and unforgettable audience experiences.",
-    image: "/assets/LVAM/p5.jpg",
+    image: "/assets/LVAM/p7.jpg",
     features: [
       "Live Concerts & Shows",
       "Stage & Technical Production",
