@@ -292,13 +292,13 @@ const teamMembers = [
     name: "Yatik Jangid",
     role: "Senior Line Producer & Location Manager",
     bio: "An experienced production professional specializing in logistics, budgeting, and location management, ensuring smooth, efficient, and well-coordinated shoots across all projects.",
-    image: "/api/placeholder/200/200",
+    image: "/assets/person/yatik.PNG",
   },
   {
     name: "Jagrit Agarwal",
     role: "Show Curator • Founder, Tribaan Entertainment",
     bio: "Dynamic Show Curator and the Founder of Tribaan Entertainment, bringing strong expertise in live entertainment, concert curation, and audience-driven experiences.",
-    image: "/api/placeholder/200/200",
+    image: "/assets/person/jarit.PNG",
   },
 ];
 
