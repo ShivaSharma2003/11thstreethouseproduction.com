@@ -301,7 +301,7 @@ const teamMembers = [
     image: "/assets/person/jarit.PNG",
   },
   {
-    name: "Abhimanu Singh Choudhary",
+    name: "Abhimanyu Singh Choudhary",
     role: "Director of Photography (DOP) & Visual Content Creator",
     bio: "A passionate cinematographer and visual storyteller, He specializes in films, commercials, music videos, and social media reels. His creative approach and technical expertise help transform ideas into captivating visual experiences",
     image: "/assets/person/Abhinay.png",
