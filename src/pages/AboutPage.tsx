@@ -300,6 +300,12 @@ const teamMembers = [
     bio: "Dynamic Show Curator and the Founder of Tribaan Entertainment, bringing strong expertise in live entertainment, concert curation, and audience-driven experiences.",
     image: "/assets/person/jarit.PNG",
   },
+  {
+    name: "Abhimany Singh Choudhary",
+    role: "Director of Photography (DOP) & Visual Content Creator",
+    bio: "A passionate cinematographer and visual storyteller, He specializes in films, commercials, music videos, and social media reels. His creative approach and technical expertise help transform ideas into captivating visual experiences",
+    image: "/assets/person/Abhinay.png",
+  }
 ];
 
 const values = [
